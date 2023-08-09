@@ -14,7 +14,7 @@
 
                         <Item>
                             <PoolName>AnimatedBuilding</PoolName>
-                            <PoolSize value="600"/>
+                            <PoolSize value="1200"/>
                         </Item>
                         <Item>
                             <PoolName>AttachmentExtension</PoolName>
@@ -26,11 +26,11 @@
                         </Item>
                         <Item>
                             <PoolName>BlendshapeStore</PoolName>
-                            <PoolSize value="75"/>
+                            <PoolSize value="125"/>
                         </Item>
                         <Item>
                             <PoolName>Building</PoolName>
-                            <PoolSize value="60000"/>
+                            <PoolSize value="65000"/>
                         </Item>
                         <Item>
                             <!-- Size of CVehicleRecordingMgr's streaming module. -->
@@ -83,11 +83,11 @@
                         </Item>
                         <Item>
                             <PoolName>AnimStore</PoolName>
-                            <PoolSize value="20100"/>
+                            <PoolSize value="22100"/>
                         </Item>
                         <Item>
                             <PoolName>CGameScriptResource</PoolName>
-                            <PoolSize value="3067"/>
+                            <PoolSize value="6134"/>
                         </Item>
                         <Item>
                             <PoolName>ClothStore</PoolName>
@@ -127,11 +127,11 @@
                         </Item>
                         <Item>
                             <PoolName>CScenarioInfo</PoolName>
-                            <PoolSize value="250"/>
+                            <PoolSize value="750"/>
                         </Item>
                         <Item>
                             <PoolName>CScenarioPointExtraData</PoolName>
-                            <PoolSize value="220"/>
+                            <PoolSize value="720"/>
                         </Item>
                         <Item>
                             <PoolName>CutsceneStore</PoolName>
@@ -139,7 +139,7 @@
                         </Item>
                         <Item>
                             <PoolName>CScriptEntityExtension</PoolName>
-                            <PoolSize value="700"/>
+                            <PoolSize value="1000"/>
                         </Item>
                         <Item>
                             <PoolName>CVehicleChaseDirector</PoolName>
@@ -171,19 +171,19 @@
                         </Item>
                         <Item>
                             <PoolName>DecoratorExtension</PoolName>
-                            <PoolSize value="600"/>
+                            <PoolSize value="900"/>
                         </Item>
                         <Item>
                             <PoolName>DrawableStore</PoolName>
-                            <PoolSize value="76235"/>
+                            <PoolSize value="476235"/>
                         </Item>
                         <Item>
                             <PoolName>Dummy Object</PoolName>
-                            <PoolSize value="10010"/>
+                            <PoolSize value="15010"/>
                         </Item>
                         <Item>
                             <PoolName>DwdStore</PoolName>
-                            <PoolSize value="19000"/>
+                            <PoolSize value="419000"/>
                         </Item>
                         <Item>
                             <PoolName>EntityBatch</PoolName>
@@ -203,7 +203,7 @@
                         </Item>
                         <Item>
                             <PoolName>FragmentStore</PoolName>
-                            <PoolSize value="34500"/>
+                            <PoolSize value="1186500"/>
                         </Item>
                         <Item>
                             <PoolName>GamePlayerBroadcastDataHandler_Remote</PoolName>
@@ -215,7 +215,7 @@
                         </Item>
                         <Item>
                             <PoolName>InteriorInst</PoolName>
-                            <PoolSize value="150"/>
+                            <PoolSize value="300"/>
                         </Item>
                         <Item>
                             <PoolName>InteriorProxy</PoolName>
@@ -227,19 +227,19 @@
                         </Item>
                         <Item>
                             <PoolName>MaxLoadedInfo</PoolName>
-                            <PoolSize value="32768"/>
+                            <PoolSize value="39768"/>
                         </Item>
                         <Item>
                             <PoolName>MaxLoadRequestedInfo</PoolName>
-                            <PoolSize value="3000"/>
+                            <PoolSize value="13000"/>
                         </Item>
                         <Item>
                             <PoolName>ActiveLoadedInfo</PoolName>
-                            <PoolSize value="3000"/>
+                            <PoolSize value="13000"/>
                         </Item>
                         <Item>
                             <PoolName>ActivePersistentLoadedInfo</PoolName>
-                            <PoolSize value="1439"/>
+                            <PoolSize value="14390"/>
                         </Item>
                         <Item>
                             <PoolName>Known Refs</PoolName>
@@ -247,27 +247,27 @@
                         </Item>
                         <Item>
                             <PoolName>LightEntity</PoolName>
-                            <PoolSize value="4700"/>
+                            <PoolSize value="6200"/>
                         </Item>
                         <Item>
                             <PoolName>MapDataLoadedNode</PoolName>
-                            <PoolSize value="1050"/>
+                            <PoolSize value="4200"/>
                         </Item>
                         <Item>
                             <PoolName>MapDataStore</PoolName>
-                            <PoolSize value="10020"/>
+                            <PoolSize value="20040"/>
                         </Item>
                         <Item>
                             <PoolName>MapTypesStore</PoolName>
-                            <PoolSize value="1600"/>
+                            <PoolSize value="3200"/>
                         </Item>
                         <Item>
                             <PoolName>MetaDataStore</PoolName>
-                            <PoolSize value="3050"/>
+                            <PoolSize value="5000"/>
                         </Item>
                         <Item>
                             <PoolName>NavMeshes</PoolName>
-                            <PoolSize value="10100"/>
+                            <PoolSize value="13100"/>
                         </Item>
                         <Item>
                             <PoolName>NetworkDefStore</PoolName>
@@ -307,7 +307,7 @@
                         </Item>
                         <Item>
                             <PoolName>phInstGta</PoolName>
-                            <PoolSize value="10030"/>
+                            <PoolSize value="15050"/>
                         </Item>
                         <Item>
                             <PoolName>PhysicsBounds</PoolName>
@@ -331,7 +331,7 @@
                         </Item>
                         <Item>
                             <PoolName>PortalInst</PoolName>
-                            <PoolSize value="200" />
+                            <PoolSize value="400" />
                         </Item>
                         <Item>
                             <PoolName>PoseMatcherStore</PoolName>
@@ -343,11 +343,11 @@
                         </Item>
                         <Item>
                             <PoolName>PtFxSortedEntity</PoolName>
-                            <PoolSize value="384"/>
+                            <PoolSize value="768"/>
                         </Item>
                         <Item>
                             <PoolName>PtFxAssetStore</PoolName>
-                            <PoolSize value="400"/>
+                            <PoolSize value="600"/>
                         </Item>
                         <Item>
                             <PoolName>QuadTreeNodes</PoolName>
@@ -355,7 +355,7 @@
                         </Item>
                         <Item>
                             <PoolName>ScaleformStore</PoolName>
-                            <PoolSize value="778"/>
+                            <PoolSize value="820"/>
                         </Item>
                         <Item>
                             <PoolName>ScaleformMgrArray</PoolName>
@@ -367,11 +367,11 @@
                         </Item>
                         <Item>
                             <PoolName>StaticBounds</PoolName>
-                            <PoolSize value="14500"/>
+                            <PoolSize value="44500"/>
                         </Item>
                         <Item>
                             <PoolName>tcBox</PoolName>
-                            <PoolSize value="3000"/>
+                            <PoolSize value="13000"/>
                         </Item>
                         <Item>
                             <PoolName>TrafficLightInfos</PoolName>
@@ -379,7 +379,7 @@
                         </Item>
                         <Item>
                             <PoolName>TxdStore</PoolName>
-                            <PoolSize value="80000"/>
+                            <PoolSize value="380000"/>
                         </Item>
                         <Item>
                             <PoolName>Vehicles</PoolName>
@@ -399,7 +399,7 @@
                         </Item>
                         <Item>
                             <PoolName>HandlingData</PoolName>
-                            <PoolSize value="1550"/>
+                            <PoolSize value="15550"/>
                         </Item>
                         <Item>
                             <!-- Size of the CWaypointRecording streaming module. -->
@@ -408,7 +408,7 @@
                         </Item>
                         <Item>
                             <PoolName>fwLodNode</PoolName>
-                            <PoolSize value="12500"/>
+                            <PoolSize value="17500"/>
                         </Item>
                         <Item>
                             <PoolName>CTask</PoolName>
@@ -420,11 +420,11 @@
                         </Item>
                         <Item>
                             <PoolName>CMoveObject</PoolName>
-                            <PoolSize value="300"/>
+                            <PoolSize value="600"/>
                         </Item>
                         <Item>
                             <PoolName>CMoveAnimatedBuilding</PoolName>
-                            <PoolSize value="161"/>
+                            <PoolSize value="483"/>
                         </Item>
                         <Item>
                             <PoolName>atDScriptObjectNode</PoolName>
@@ -432,11 +432,11 @@
                         </Item>
                         <Item>
                             <PoolName>fwDynamicArchetypeComponent</PoolName>
-                            <PoolSize value="15000"/>
+                            <PoolSize value="63500"/>
                         </Item>
                         <Item>
                             <PoolName>fwDynamicEntityComponent</PoolName>
-                            <PoolSize value="8192"/>
+                            <PoolSize value="32768"/>
                         </Item>
                         <Item>
                             <PoolName>fwEntityContainer</PoolName>
@@ -456,27 +456,27 @@
                         </Item>
                         <Item>
                             <PoolName>ScenarioCarGensPerRegion</PoolName>
-                            <PoolSize value="80"/>
+                            <PoolSize value="320"/>
                         </Item>
                         <Item>
                             <PoolName>ScenarioPointsAndEdgesPerRegion</PoolName>
-                            <PoolSize value="1000"/>
+                            <PoolSize value="2000"/>
                         </Item>
                         <Item>
                             <PoolName>ScenarioPoint</PoolName>
-                            <PoolSize value="900"/>
+                            <PoolSize value="1000"/>
                         </Item>
                         <Item>
                             <PoolName>ScenarioPointEntity</PoolName>
-                            <PoolSize value="350"/>
+                            <PoolSize value="700"/>
                         </Item>
                         <Item>
                             <PoolName>ScenarioPointWorld</PoolName>
-                            <PoolSize value="1400"/>
+                            <PoolSize value="2800"/>
                         </Item>
                         <Item>
                             <PoolName>MaxNonRegionScenarioPointSpatialObjects</PoolName>
-                            <PoolSize value="900"/>
+                            <PoolSize value="1800"/>
                         </Item>
                         <Item>
                             <PoolName>ObjectIntelligence</PoolName>
@@ -787,14 +787,14 @@
                     <MaxBaseModelInfos value="2"/>
                     <MaxCompEntityModelInfos value="100"/>
                     <MaxMloInstances value="18000"/>
-                    <MaxMloModelInfos value="220"/>
-                    <MaxPedModelInfos value="725"/>
+                    <MaxMloModelInfos value="12220"/>
+                    <MaxPedModelInfos value="12725"/>
                     <MaxTimeModelInfos value="1800"/>
-                    <MaxVehicleModelInfos value="320"/>
-                    <MaxWeaponModelInfos value="115"/>
-                    <MaxExtraPedModelInfos value="350"/>
-                    <MaxExtraVehicleModelInfos value="525"/>
-                    <MaxExtraWeaponModelInfos value="610"/>
+                    <MaxVehicleModelInfos value="15320"/>
+                    <MaxWeaponModelInfos value="12115"/>
+                    <MaxExtraPedModelInfos value="12350"/>
+                    <MaxExtraVehicleModelInfos value="17500"/>
+                    <MaxExtraWeaponModelInfos value="12610"/>
                 </ConfigModelInfo>
 
                 <ConfigExtensions>
@@ -805,7 +805,7 @@
                 </ConfigExtensions>
 
                 <ConfigStreamingEngine>
-                    <ArchiveCount value="3928"/>
+                    <ArchiveCount value="11784"/>
                     <PhysicalStreamingBuffer value="252"/>
                     <VirtualStreamingBuffer value="1000"/>
                 </ConfigStreamingEngine>
