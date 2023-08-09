@@ -216,7 +216,7 @@
                         </Item>
                         <Item>
                             <PoolName>InteriorInst</PoolName>
-                            <PoolSize value="300"/>
+                            <PoolSize value="550"/>
                         </Item>
                         <Item>
                             <PoolName>InteriorProxy</PoolName>
@@ -248,7 +248,7 @@
                         </Item>
                         <Item>
                             <PoolName>LightEntity</PoolName>
-                            <PoolSize value="6200"/>
+                            <PoolSize value="8700"/>
                         </Item>
                         <Item>
                             <PoolName>MapDataLoadedNode</PoolName>
@@ -264,11 +264,11 @@
                         </Item>
                         <Item>
                             <PoolName>MetaDataStore</PoolName>
-                            <PoolSize value="5000"/>
+                            <PoolSize value="16000"/>
                         </Item>
                         <Item>
                             <PoolName>NavMeshes</PoolName>
-                            <PoolSize value="13100"/>
+                            <PoolSize value="20100"/>
                         </Item>
                         <Item>
                             <PoolName>NetworkDefStore</PoolName>
